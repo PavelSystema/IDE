@@ -1,8 +1,8 @@
 # Проект 0. Угадай число
 
 ## Оглавление  
-[1. Описание проекта](project_01_learning
-/README.md#Описание-проекта)  
+[1. Описание проекта]([project_01_learning](https://github.com/PavelSystema/IDE/edit/main/project_01_learning/README.md#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
+)  
 [2. Какой кейс решаем?](.README.md#Какой-кейс-решаем)  
 [3. Краткая информация о данных](.README.md#Краткая-информация-о-данных)  
 [4. Этапы работы над проектом](.README.md#Этапы-работы-над-проектом)  
